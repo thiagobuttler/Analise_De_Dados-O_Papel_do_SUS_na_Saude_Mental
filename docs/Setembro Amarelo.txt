@@ -1,0 +1,11 @@
+Analista de Dados | Storytelling | Business Intelligence 
+Automação de Processos
+
+Analista de Dados -> Power BI, Excel Avançado
+Automação de Processos -> Power Automate, VBA, Python
+
+Bases de dados: https://www.pns.icict.fiocruz.br/bases-de-dados/
+
+Hábitos como o tabagismo, a alimentação inadequada, a inatividade física e o consumo nocivo de álcool configuram-se como fatores de risco comuns para diversas DCNTs.
+
+Doenças mentais: doença mental, como transtorno de ansiedade, síndrome do pânico, esquizofrenia, transtorno bipolar, psicose ou TOC (Transtorno Obsessivo Compulsivo)
